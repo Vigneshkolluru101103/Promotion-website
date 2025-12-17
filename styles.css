@@ -1062,20 +1062,22 @@ p {
 
 @media (max-width: 768px) {
 
-  body {
-    padding-top: 90px; /* height of sticky navbar */
-  }
-
-  .section {
-    padding-top: 20px;
-  }
-
+  #mobile-list,
+  #accessory-list,
   .cards {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 20px;
+    display: grid !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    height: auto !important;
+    overflow: visible !important;
   }
+
+  .card {
+    display: block !important;
+  }
+
 }
+
 
 
 
