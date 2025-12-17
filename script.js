@@ -50,7 +50,7 @@ const mobiles = [
     storage : "256GB",
     color : "Glacial White",
     brand: "OnePlus",
-    image: "images/mobiles/oneplus 11.png",
+    image: "images/mobiles/oneplus 12.png",
     camera: "50MP + 64MP + 48MP",
     battery: "5400 mAh"
   },
