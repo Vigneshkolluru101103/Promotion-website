@@ -233,9 +233,8 @@ p {
 .section {
   padding: 64px clamp(16px, 4vw, 48px);
   background: #0b1324;
-  opacity: 0;
-  transform: translateY(40px);
-  transition: opacity 0.6s ease, transform 0.6s ease;
+  opacity: 1;
+  transform: none;
 }
 
 .section.revealed {
@@ -1062,21 +1061,30 @@ p {
 
 @media (max-width: 768px) {
 
+  /* FORCE SHOW MOBILE PRODUCTS */
   #mobile-list,
-  #accessory-list,
-  .cards {
+  #accessory-list {
     display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 16px !important;
     opacity: 1 !important;
     visibility: visible !important;
     height: auto !important;
     overflow: visible !important;
+    position: relative !important;
+  }
+
+  .cards {
+    display: grid !important;
   }
 
   .card {
     display: block !important;
+    transform: none !important;
   }
 
 }
+
 
 
 
