@@ -782,3 +782,11 @@ function initScrollReveal() {
 
   sections.forEach((sec) => observer.observe(sec));
 }
+// WhatsApp open for mobile & desktop
+function openWhatsApp() {
+  const phone = "917093484648";
+  const message = "Hi Sathish Mobiles, I saw your website and I am interested in your products";
+  const url = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
+
+  window.location.href = url;
+}
