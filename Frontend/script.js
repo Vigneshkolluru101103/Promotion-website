@@ -1,6 +1,6 @@
 const mobiles = [
   {
-    name: "Pixel Pro 9",
+    name: "Pixel pro 9",
     chip: "Google Tensor G4",
     price: "₹1,09,999",
     badge: "5G",
@@ -9,12 +9,12 @@ const mobiles = [
     storage : "128GB",
     color : "Black",
     brand: "Google",
-    image: "Images/Mobiles/Pixel Pro 9.png",
+    image: "images/mobiles/pixel pro 9.png",
     camera: "50MP + 48MP",
     battery: "5050 mAh"
   },
   {
-    name: "iPhone 15",
+    name: "iphone 15",
     chip: "A17 Pro",
     price: "₹51,999",
     badge: "New",
@@ -22,12 +22,12 @@ const mobiles = [
     storage : "128GB",
     color : "white",
     brand: "Apple",
-    image: "Images/Mobiles/iphone 15.png",
+    image: "images/mobiles/iphone 15.png",
     camera: "48MP + 12MP",
     battery: "3349 mAh"
   },
   {
-    name: "Galaxy S24 Ultra",
+    name: "galaxy s24 ultra",
     chip: "Snapdragon 8 Gen 3",
     price: "₹1,11,999",
     badge: "Top Pick",
@@ -36,12 +36,12 @@ const mobiles = [
     storage : "256GB",
     color : "Titanium Black",  
     brand: "Samsung",
-    image: "Images/Mobiles/Galaxy S24 Ultra.jpg",
+    image: "images/mobiles/galaxy s24 ultra.jpg",
     camera: "200MP + 50MP + 12MP",
     battery: "5000 mAh"
   },
   {
-    name: "OnePlus 12",
+    name: "oneplus 12",
     chip: "Snapdragon 8 Gen 3",
     price: "₹54,999",
     badge: "Value",
@@ -50,12 +50,12 @@ const mobiles = [
     storage : "256GB",
     color : "Glacial White",
     brand: "OnePlus",
-    image: "Images/Mobiles/one plus 17.png",
+    image: "images/mobiles/oneplus 11.png",
     camera: "50MP + 64MP + 48MP",
     battery: "5400 mAh"
   },
   {
-    name: "Nothing Phone 2",
+    name: "nothing phone 2",
     chip: "Snapdragon 8+ Gen 1",
     price: "₹25,000",
     badge: "Style",
@@ -64,12 +64,12 @@ const mobiles = [
     storage : "256GB",
     color : "white",
     brand: "Nothing",
-    image: "images/Mobiles/Nothing Phone 2.png",
+    image: "images/mobiles/nothing Phone 2.png",
     camera: "50MP (OIS) + 50MP | 32MP Front Camera",
     battery: "5000 mAh"
   },
   {
-    name: "Redmi Note 13 Pro",
+    name: "redmi note 13 pro",
     chip: "Dimensity 7200",
     price: "₹17,999",
     badge: "Budget",
@@ -78,12 +78,12 @@ const mobiles = [
     storage : "128GB",
     color : "Arctic White",
     brand: "Xiaomi",
-    image: "images/Mobiles/Redmi Note 13 Pro.png",
+    image: "images/mobiles/redmi note 13 pro.png",
     camera: "200MP (OIS) + 8MP + 2MP | 16MP Front Camera",
     battery: "5100 mAh"
   },
   {
-    name: "Galaxy A55",
+    name: "galaxy a55",
     chip: "Exynos 1480",
     price: "₹24,567",
     badge: "Best Seller",
@@ -92,12 +92,12 @@ const mobiles = [
     storage : "128GB",
     color : "Awesome Iceblue",
     brand: "Samsung",
-    image: "images/Mobiles/Galaxy A55.png",
+    image: "images/mobiles/galaxy a55.png",
     camera: "50MP + 12MP + 5MP | 32MP Front Camera",
     battery: "5000 mAh"
   },
   {
-    name: "Moto Edge 50",
+    name: "moto edge 50",
     chip: "Snapdragon 7 Gen 3",
     price: "₹21,999",
     badge: "Clean OS",
@@ -106,12 +106,12 @@ const mobiles = [
     storage : "256GB",
     color : "Jungle Green",
     brand: "Motorola",
-    image: "images/Mobiles/Moto Edge 50.png",
+    image: "images/mobiles/moto edge 50.png",
     camera: "50MP + 13MP + 10MP | 32MP Front Camera",
     battery: "5000 mAh"
   },
   {
-    name: "iPhone 14 Pro",
+    name: "iphone 14 pro",
     chip: "A16 Bionic",
     price: "₹1,19,900",
     badge: "Premium",
@@ -119,12 +119,12 @@ const mobiles = [
     storage : "128GB",
     color : "Space Black",  
     brand: "Apple",
-    image: "images/Mobiles/iphone 14 pro.png",
+    image: "images/mobiles/iphone 14 pro.png",
     camera: "48MP + 12MP + 12MP | 12MP Front Camera",
     battery: "3200 mAh"
   },
   {
-    name: "OnePlus 11",
+    name: "oneplus 11",
     chip: "Snapdragon 8 Gen 2",
     price: "₹32,839",
     badge: "Speed",
@@ -133,12 +133,12 @@ const mobiles = [
     storage : "128GB",
     color : "Eternal Green",
     brand: "OnePlus",
-    image: "images/Mobiles/onePlus 11.png",
+    image: "images/mobiles/oneplus 11.png",
     camera: "50MP Rear Camera | 16MP Front Camera",
     battery: "5000 mAh"
   },
   {
-    name: "Xiaomi 14",
+    name: "xiaomi 14",
     chip: "Snapdragon 8 Gen 3",
     price: "₹59,999",
     badge: "Flagship",
@@ -147,12 +147,12 @@ const mobiles = [
     storage : "512GB",
     color : "Black",
     brand: "Xiaomi",
-    image: "images/Mobiles/Xiaomi 14.png",
+    image: "images/mobiles/xiaomi 14.png",
     camera: "50MP + 50MP + 50MP | 32MP Front Camera",
     battery: "4610 mAh"
   },
   {
-    name: "vivo Y400 Pro 5G",
+    name: "vivo y400 pro 5G",
     chip: "Dimensity 7300 Processor",
     price: "₹25,999",
     badge: "Pro Camera",
@@ -161,12 +161,12 @@ const mobiles = [
     storage : "128GB",
     color : "Freestyle White",
     brand: "Vivo",
-    image: "images/Mobiles/vivo Y400 Pro 5G.png",
+    image: "images/mobiles/vivo y400 pro 5g.png",
     camera: "50MP + 64MP + 50MP",
     battery: "5400 mAh"
   },
   {
-    name: "OPPO K13 5G",
+    name: "oppo k13 5g",
     chip: "Snapdragon 6 Gen 4",
     price: "₹19,999",
     badge: "Design",
@@ -175,12 +175,12 @@ const mobiles = [
     storage : "128GB",
     color : "white",
     brand: "Oppo",
-    image: "images/Mobiles/OPPO K13 5G.png",
+    image: "images/mobiles/oppo k13 5g.png",
     camera: "50MP + 2MP | 16MP Front Camera",
     battery: "7000 mAh"
   },
   {
-    name: "Realme GT 6",
+    name: "realme gt 6",
     chip: "Snapdragon 8s Gen 3",
     price: "₹27,999",
     badge: "Gaming",
@@ -189,12 +189,12 @@ const mobiles = [
     storage : "256GB",
     color : "Razor Green",
     brand: "Realme",
-    image: "images/Mobiles/Realme GT 6.png",
+    image: "images/mobiles/realme gt 6.png",
     camera: "50MP + 8MP + 50MP | 32MP Front",
     battery: "5500 mAh"
   },
   {
-    name: "Poco X6 Pro",
+    name: "poco x6 pro",
     chip: "Dimensity 8300",
     price: "₹26,999",
     badge: "Value Pro",
@@ -203,12 +203,12 @@ const mobiles = [
     storage : "128GB",
     color : "Matte Black",
     brand: "Poco",
-    image: "images/Mobiles/Poco X6 Pro.png",
+    image: "images/mobiles/poco x6 pro.png",
     camera: "64MP + 8MP + 2MP",
     battery: "5000 mAh"
   },
   {
-    name: "POCO M7 Pro 5G",
+    name: "poco m7 pro 5g",
     chip: "Snapdragon 8 Gen 3",
     price: "₹12,999",
     badge: "value",
@@ -218,7 +218,7 @@ const mobiles = [
     storage : "128GB",
     color : "Mystic Silver",
     brand: "POCO",
-    image: "Images/Mobiles/POCO M7 Pro 5G.png",
+    image: "images/mobiles/poco m7 pro 5g.png",
     camera: "50MP + 50MP + 32MP",
     battery: "5450 mAh"
   },
@@ -230,50 +230,50 @@ const accessories = [
     name: "CMF by Nothing 65 W GaN 3 A 3 Port Mobile Charger  (Dark Grey)",
     detail: "Fast charging for most phones",
     price: "₹2,299",
-    image: "images/Accessories/CMF.png"
+    image: "images/accessories/cmf.png"
   },
   {
     name: "boAt 10000 mAh Power Bank",
     detail: "10000mAh Magnetic Wireless Powerbank: With a 10000mAh capacity",
-    image: "Images/Accessories/powerbank.png"
+    image: "images/accessories/powerbank.png"
   },
   {
     name: "Back Cover for Apple iPhone 13",
     detail: "Shockproof, slim profile",
     price: "₹190",
-    image: "Images/Accessories/Back Cover for Apple iPhone 13.png"
+    image: "images/accessories/back cover iphone 13.png"
   },
   {
     name: "boAt Airdopes Alpha",
     detail: "BEAST Mode: Experience lag-free high-quality gaming with low latency of up to 50 ms.",
     price: "₹799",
-    image: "Images/Accessories/boAt Airdopes.png"
+    image: "images/accessories/boat airpodes.png"
   },
   {
     name: "Tempered Glass",
     detail: "Edge-to-edge protection, easy install",
     price: "₹150",
-    image: "Images/Accessories/glass.png"
+    image: "images/accessories/glass.png"
   },
   {
     name: "USB-C Cable",
     detail: "Braided, fast data transfer",
     price: "₹150",
-    image: "Images/Accessories/cable.png"
+    image: "images/accessories/cable.png"
   },
   
   {
     name: "Camera Lens Protector",
     detail: "3-pack, crystal clear",
     price: "₹110",
-    image: "Images/Accessories/lens.png"
+    image: "images/accessories/lens.png"
   },
 
   {
     name: "OnePlus Bullets Wireless Z3",
     detail: "Wireless Z3 Bluetooth without Mic  (Crimson Eclipse, In the Ear",
     price: "₹1560",
-    image: "Images/Accessories/OnePlus Bullets Wireless Z3.png"
+    image: "images/accessories/one plus neckband.png"
   },
   
 ];
